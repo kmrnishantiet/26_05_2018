@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.BinaryOperator;
 import java.util.stream.Stream;
 
-interface A{
+interface B{
 	
 	default Object clone() throws CloneNotSupportedException {
 		
